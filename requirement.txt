@@ -1,0 +1,6 @@
+azure-ai-formrecognizer
+Flask
+sklearn
+pandas
+numpy
+
